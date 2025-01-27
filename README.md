@@ -1,1 +1,1 @@
-# rust-bootcamp
+Lam viec voi ngon ngu rust
